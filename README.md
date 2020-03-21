@@ -1,1 +1,3 @@
-# clean-images
+# maven-project
+
+Simple Maven Project
